@@ -1,0 +1,19 @@
+{
+  "name": "probando-sass",
+  "version": "1.0.0",
+  "description": "probando sass con npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m32795434/sass-con-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m32795434/sass-con-npm/issues"
+  },
+  "homepage": "https://github.com/m32795434/sass-con-npm#readme"
+}

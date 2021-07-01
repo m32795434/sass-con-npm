@@ -1,4 +1,4 @@
-# PROYECTO APRA PROBAR SASS
+# PROYECTO PARA PROBAR SASS
 ## subtitulo
 parrafo con info
 
